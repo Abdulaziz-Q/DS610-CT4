@@ -1,5 +1,5 @@
-# DS620-CT4
-Critical Thinking Assignment 4 is part of DS620 (Advanced Applied Statistics) course
+# DS610-CT4
+Critical Thinking Assignment 4 is part of DS610 (Advanced Applied Statistics) course
 
 ### CT4: Solve 3 Problems using R
 
